@@ -1,6 +1,7 @@
 package AbstractFactory;
 
 public class CarFactory extends AbstractFactory {
+
     @Override
     String getBenzName() {
         return "Benz";
